@@ -1,13 +1,13 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,50:764ba2,100:00f7ff&height=240&section=header&text=ckkkf&fontSize=90&fontColor=ffffff&animation=fadeIn"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,50:764ba2,100:00f7ff&height=220&section=header&text=ckkkf&fontSize=90&fontColor=ffffff&animation=fadeIn"/>
 
 </div>
 
 
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=28&duration=2500&pause=800&color=00F7FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Java+%7C+Vue3+%7C+Docker;AI+Application+Builder;Cloud+Native+Explorer;Open+Source+Enthusiast"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=28&duration=2500&pause=800&color=00F7FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Java+%7C+Vue3+%7C+Docker;AI+Application+Builder;Open+Source+Enthusiast"/>
 
 </div>
 
@@ -26,114 +26,52 @@
 <br>
 
 
-# 👨‍💻 About Me
-
-
-```java
-public class Developer {
-
-    private String name = "ckkkf";
-
-    private String role =
-            "Full Stack Developer";
-
-    private String[] stack = {
-
-        "Java",
-        "Spring Boot",
-        "Vue3",
-        "Docker",
-        "Linux",
-        "AI Agent"
-
-    };
-
-
-    public String motto(){
-
-        return "Build ideas, ship products.";
-
-    }
-
-}
-```
-
-
----
-
-
-# ⚡ Tech Stack
+## 👨‍💻 About Me
 
 
 <div align="center">
-
-<img src="https://skillicons.dev/icons?i=java,spring,mysql,redis,docker,linux,nginx,git,github,vue,ts,vite,electron,nodejs,python&perline=8"/>
-
-</div>
-
-
----
-
-# 🚀 Featured Project
-
-
-<div align="center">
-
 
 <table>
 
 <tr>
 
-<td width="100%">
+<td align="center">
 
-
-## 🚀 sign-sign-in
-
-
-> Third Party Automation Platform
-
-
-一个开源的第三方自动化签到工具。
-
-
-**Tech Stack**
-
-
-- ⚡ Electron
-- 🎨 Vue
-- 🤖 Automation
-- 🔓 Open Source
-
-
-**Features**
-
-
-- ✅ Automated Task Execution
-- ✅ Desktop Application
-- ✅ Simple & Efficient
-- ✅ Open Source Project
-
+🚀 <b>Full Stack Developer</b><br>
+Building modern web applications
 
 </td>
 
+<td align="center">
+
+☕ <b>Java Engineer</b><br>
+Spring Boot · Microservices
+
+</td>
+
+<td align="center">
+
+🤖 <b>AI Explorer</b><br>
+Agent · LLM · Automation
+
+</td>
+
+<td align="center">
+
+☁️ <b>Cloud Native</b><br>
+Docker · Linux · DevOps
+
+</td>
 
 </tr>
-
 
 </table>
 
 
-</div>
-
----
+<br>
 
 
-# 🏆 Github Trophy
-
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=ckkkf&theme=tokyonight&no-frame=true&row=1&column=7"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=18&duration=3000&pause=1000&color=764BA2&center=true&width=600&lines=Build+ideas+into+products.;Keep+learning+%2C+keep+shipping.;Open+Source+is+the+future."/>
 
 </div>
 
@@ -141,16 +79,55 @@ public class Developer {
 ---
 
 
-# 📊 Github Stats
+## ⚡ Tech Stack
+
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=java,spring,vue,ts,vite,electron,nodejs,python,mysql,redis,docker,linux,nginx,git,github&perline=8"/>
+
+</div>
+
+
+---
+
+
+## 🚀 Featured Project
 
 
 <div align="center">
 
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=ckkkf&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+<a href="https://github.com/ckkkf/sign-sign-in">
+
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=ckkkf&repo=sign-sign-in&theme=tokyonight&hide_border=true"/>
+
+</a>
 
 
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ckkkf&layout=compact&theme=tokyonight&hide_border=true"/>
+<br>
+
+
+<img src="https://img.shields.io/badge/Electron-black?style=for-the-badge&logo=electron">
+
+<img src="https://img.shields.io/badge/Vue3-42b883?style=for-the-badge&logo=vuedotjs">
+
+<img src="https://img.shields.io/badge/Automation-blueviolet?style=for-the-badge">
+
+
+</div>
+
+
+## 📊 Github Analytics
+
+
+<div align="center">
+
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=ckkkf&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ckkkf&layout=compact&theme=tokyonight&hide_border=true"/>
 
 
 </div>
@@ -169,61 +146,22 @@ public class Developer {
 ---
 
 
-# 📈 Contribution Activity
-
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ckkkf&theme=tokyo-night&hide_border=true"/>
-
-</div>
-
-
----
-
-
-# 🐍 Snake Animation
-
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/ckkkf/ckkkf/output/github-contribution-grid-snake-dark.svg">
-
-</div>
-
-
----
-
-
-# 🧊 3D Contribution
-
-
-<div align="center">
-
-<img src="./profile-3d-contrib/profile-night-rainbow.svg">
-
-</div>
-
-
----
-
-
-# 🎮 Developer Zone
+## 🎮 Developer Life
 
 
 <div align="center">
 
 
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"
-width="350">
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300">
+
+
+<img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="300">
 
 
 <br>
 
 
-### 🎯 Keep Coding
-
-### 🚀 Keep Building
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=20&duration=2500&pause=800&color=00F7FF&center=true&width=500&lines=Code+%E2%86%92+Create+%E2%86%92+Deploy;Dream+big+%F0%9F%9A%80"/>
 
 
 </div>
@@ -232,7 +170,7 @@ width="350">
 ---
 
 
-# 📫 Contact
+## 📫 Connect
 
 
 <div align="center">
@@ -240,29 +178,22 @@ width="350">
 
 <img src="https://img.shields.io/badge/GitHub-ckkkf-black?style=for-the-badge&logo=github"/>
 
-
-<img src="https://img.shields.io/badge/Java-Developer-orange?style=for-the-badge&logo=java"/>
-
+<img src="https://img.shields.io/badge/Java-Developer-orange?style=for-the-badge&logo=openjdk"/>
 
 <img src="https://img.shields.io/badge/AI-Builder-blueviolet?style=for-the-badge"/>
+
+
+<br><br>
+
+
+⭐ Star my repositories if you like them
 
 
 </div>
 
 
-<br>
-
-
 <div align="center">
 
-
-## 💻 Code is poetry.
-
-
-## 🚀 Build. Ship. Repeat.
-
-
-⭐ Star my repositories if you find them useful
-
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00f7ff,50:764ba2,100:667eea&height=120&section=footer"/>
 
 </div>
