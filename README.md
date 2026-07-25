@@ -26,9 +26,6 @@
 <br>
 
 
-## 👨‍💻 About Me
-
-
 <div align="center">
 
 <table>
@@ -75,12 +72,7 @@ Docker · Linux · DevOps
 
 </div>
 
-
----
-
-
 ## ⚡ Tech Stack
-
 
 <div align="center">
 
@@ -88,20 +80,12 @@ Docker · Linux · DevOps
 
 </div>
 
-
----
-
-
 ## 🚀 Featured Project
-
 
 <div align="center">
 
 
 <a href="https://github.com/ckkkf/sign-sign-in">
-
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=ckkkf&repo=sign-sign-in&theme=tokyonight&hide_border=true"/>
-
 </a>
 
 
@@ -117,37 +101,17 @@ Docker · Linux · DevOps
 
 </div>
 
-
 ## 📊 Github Analytics
 
-
 <div align="center">
 
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=ckkkf&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ckkkf&layout=compact&theme=tokyonight&hide_border=true"/>
-
-
-</div>
-
-
-<br>
-
-
-<div align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ckkkf&theme=tokyo-night&hide_border=true"/>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=ckkkf&theme=tokyonight&hide_border=true"/>
 
 </div>
 
-
----
-
-
 ## 🎮 Developer Life
-
 
 <div align="center">
 
@@ -166,12 +130,7 @@ Docker · Linux · DevOps
 
 </div>
 
-
----
-
-
 ## 📫 Connect
-
 
 <div align="center">
 
@@ -184,7 +143,6 @@ Docker · Linux · DevOps
 
 
 <br><br>
-
 
 ⭐ Star my repositories if you like them
 
