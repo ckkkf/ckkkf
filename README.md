@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff7e5f,50:ee6c4d,100:4facfe&height=180&section=header&text=ckkkf&fontSize=85&fontColor=ffffff&animation=fadeIn"/>
+<img src="https://github.com/matyo91/matyo91/raw/main/assets/github.gif" alt="Hi, I'm Ckkkf 👋 I'm a 🚀 Chinese developer 🚀 I ❤️ Happy Hardcore ❤️">
 
 <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=24&duration=2500&pause=800&color=FF7E5F&center=true&vCenter=true&width=650&lines=Full+Stack+Developer;Java+%7C+Vue3+%7C+Docker;AI+Application+Builder;Open+Source+Enthusiast"/>
 
@@ -15,6 +15,8 @@
 ## 👨‍💻 About Me
 
 <div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff7e5f,50:ee6c4d,100:4facfe&height=180&section=header&text=ckkkf&fontSize=85&fontColor=ffffff&animation=fadeIn"/>
 
 🚀 Full Stack Developer · ☕ Java Engineer · 🤖 AI Builder · ☁️ DevOps Explorer
 
