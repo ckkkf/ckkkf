@@ -12,7 +12,6 @@
 
 </div>
 
-
 ## 👨‍💻 About Me
 
 <div align="center">
@@ -21,10 +20,10 @@
 
 <br>
 
-| Web | Backend | AI | Cloud |
-|-|-|-|-|
-| Vue3 Ecosystem | Spring Boot | LLM / Agent | Docker |
-| Electron | Microservices | Automation | Linux |
+| Web            | Backend       | AI          | Cloud  |
+|----------------|---------------|-------------|--------|
+| Vue3 Ecosystem | Spring Boot   | LLM / Agent | Docker |
+| Electron       | Microservices | Automation  | Linux  |
 
 <br>
 
@@ -33,10 +32,6 @@
 </div>
 
 
----
-
-
-## ⚡ Tech Stack
 
 <div align="center">
 
@@ -44,31 +39,15 @@
 
 </div>
 
-
----
-
-
-## 🚀 Featured Project
+<br/>
 
 <div align="center">
-
-<a href="https://github.com/ckkkf/sign-sign-in">
-
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=ckkkf&repo=sign-sign-in&theme=transparent&hide_border=true"/>
-
-</a>
-
-<br>
 
 <img src="https://img.shields.io/badge/Electron-black?style=for-the-badge&logo=electron"/>
 <img src="https://img.shields.io/badge/Vue3-42b883?style=for-the-badge&logo=vuedotjs"/>
 <img src="https://img.shields.io/badge/Automation-ff7e5f?style=for-the-badge"/>
 
 </div>
-
-
----
-
 
 ## 📊 Github Analytics
 
@@ -79,10 +58,6 @@
 <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=ckkkf&theme=tokyonight&hide_border=true"/>
 
 </div>
-
-
----
-
 
 ## 🎮 Developer Life
 
@@ -97,10 +72,6 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=20&duration=2500&pause=800&color=FF7E5F&center=true&width=450&lines=Code+%E2%86%92+Create+%E2%86%92+Deploy;Dream+big+%F0%9F%9A%80"/>
 
 </div>
-
-
----
-
 
 ## 📫 Connect
 
